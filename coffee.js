@@ -35,7 +35,7 @@ function draw() {
 setInterval(createParticle, 300);
 draw();
 
-// coffee.js
+
 const sections = document.querySelectorAll('section');
 const options = { threshold: 0.2 };
 
