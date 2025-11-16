@@ -39,12 +39,8 @@ How to Run the Project
 -No frameworks. No servers. Nothing complicated.
 -Download or clone the repository
 -git clone <The repo link>
-
-
-Open the project folder.
-
+-Open the project folder.
 -Locate index.html.
-
 -Double-click it.
 -Your browser will open the website instantly.
 -If you’re editing code, any modern code editor (VS Code, Sublime, Atom) works perfectly.
@@ -57,7 +53,7 @@ How to Modify the Files
 -If you add new images, place them in the images folder and update their paths.
 
 *Editing the CSS
--Check the html file, in the header tag
+-Check the coffee.css file
 -Here you can:
 
 change colors
